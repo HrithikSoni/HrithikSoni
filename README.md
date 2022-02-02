@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @HrithikSoni
 - 👀 I’m interested in Web Development Projects.
 - 🌱 I’m currently learning Full Stack Web Development.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hrithiksoniofficial@gmail.com
 
 <!---
