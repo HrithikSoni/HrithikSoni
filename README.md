@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HrithikSoni
-- 👀 I’m interested in Web Development Projects.
-- 🌱 I’m currently learning Full Stack Web Development.
-- 📫 How to reach me hrithiksoniofficial@gmail.com
+- 👀 I’m interested in Frontend Development Projects.
+- 🌱 I’m currently learning Frontend Web and App Development.
+- 📫 How to reach me hrithiksoni12@gmail.com
 
 <!---
 HrithikSoni/HrithikSoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
